@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e61a1eb6-ca37-4096-a789-e057b6778317" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GitSampleProject2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GitSampleProject2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e61a1eb6-ca37-4096-a789-e057b6778317" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +27,12 @@
     <setting file="mock://C:/Users/qpqp6/GitSampleProject2/Assets/dsad/aaa.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/qpqp6/GitSampleProject2/Assets/dsad/aaa.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "feat",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;feat&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
     <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Unity.exe" />
