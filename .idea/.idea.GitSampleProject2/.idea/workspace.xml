@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e61a1eb6-ca37-4096-a789-e057b6778317" name="변경" comment="" />
+    <list default="true" id="e61a1eb6-ca37-4096-a789-e057b6778317" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GitSampleProject2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GitSampleProject2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
