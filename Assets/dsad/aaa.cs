@@ -6,4 +6,11 @@ public class aaa : MonoBehaviour
     {
         
     }
+
+    public void Merge()
+    {
+        
+        
+    }
+            
 }
